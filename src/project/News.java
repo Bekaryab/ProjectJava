@@ -23,4 +23,8 @@ public class News {
         System.out.println("Viewing news: " + name);
     }
 
+	public String getName() {
+		return name;
+	}
+
 }
